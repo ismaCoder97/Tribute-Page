@@ -16,7 +16,8 @@ navLinks.forEach(link =>{
 
                 //Slider
 //Images
-let images=["./img/Nono1.jpeg","./img/Nono2.jpeg"];
+let images=["./img/Nono1.jpeg","./img/Nono2.jpeg","./img/Nono3.jpeg","./img/Nono4.jpeg","./img/Nono-Abue.jpeg",
+            "./img/Nono-Angie-Abue.jpeg","./img/Nono-Family.jpeg","./img/Nono-Nietos.jpeg"];
 
 //Element to upload the slider
 let slider=document.getElementById("slider-js");
